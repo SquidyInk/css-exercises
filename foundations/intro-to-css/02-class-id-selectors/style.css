@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-family: Arial;
+}
+div {
+    color: blue;
+    font-size: 25px;
+}
+
+.p1{
+    font-size: 18px;
+}
+#p2{
+    font-size: 60px;
+}
+
+#p3{
+    font-weight: bold;
+    color: black;
+    background-color: green;
+}
